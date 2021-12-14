@@ -1,0 +1,26 @@
+/*
+	Autor:			Rafael Peres (KOLISTT Publicidade & Design // Wevien Press // Hausti Tecnologia Inteligente)
+	Autor URI:	https://www.facebook.com/rafa.kolistt/
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
+
+html, body {
+  background-color: #FFF;
+  color: #666;
+  font: 15px 'Open Sans', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+select {
+	color: #666;
+  font: 15px 'Open Sans', Arial, sans-serif;
+	padding: 20px;
+	width: 300px;
+}
+
+#container {
+	margin: 60px auto;
+	text-align: center;
+}
